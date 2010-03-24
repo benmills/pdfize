@@ -15,3 +15,6 @@ How to use pdfize::
 
     <a href="http://test.com/doc.pdf" class="pdf">My PDF</a>
 
+Demo
+=============
+http://files.bmdev.org/test.html
