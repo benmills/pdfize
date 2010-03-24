@@ -7,8 +7,11 @@ Pdfize
 
 Pdfize
 =============
+How to use pdfize::
+
     <script>
     $('a.pdf').pdfize();
     </script>
 
     <a href="http://test.com/doc.pdf" class="pdf">My PDF</a>
+
