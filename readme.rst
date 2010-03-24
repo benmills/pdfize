@@ -17,4 +17,4 @@ How to use pdfize::
 
 Demo
 =============
-http://files.bmdev.org/test.html
+http://files.bmdev.org/pdfize.html
