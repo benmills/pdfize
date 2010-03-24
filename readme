@@ -1,9 +1,0 @@
-
-jquery.pdfiz.js, version 0.0.1
-website: http://github.com/benmills/pdfize
-author: Ben Mills
-
------------------------------------
-Pdfize takes anchor tag's href value and creates a lightbox window with the Google Document Viewer inside it to view the pdf
------------------------------------
-Example: @$('a.pdf').pdfize();@
